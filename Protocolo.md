@@ -1,3 +1,7 @@
+# Desarrollo de un monitor respiratorio con saturación de oxígeno
+
+Se realizó un dispositivo capaz de medir la saturación de oxígeno en sangre y la temperatura. Los registros que se realizaron y el código empleado se encuentran en el presente repositorio. Este proyecto fue desarrollado para el laboratorio de Instrumentación biomédica, en la Universidad Nacional Autónoma de México, dentro de la Facultad de Ciencias.
+
 ## Protocolo
 El protocolo utilizado durante 7 días seguidos para obtener los registros de los sujetos fue el siguiente:
 
