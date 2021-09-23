@@ -16,3 +16,7 @@ El protocolo utilizado durante 7 días seguidos para obtener los registros de lo
 5.  Posteriormente se realizaban 40 segundos de registro.
 
 Sobre los sujetos de este estudio, tienen un promedio de edad de 38.75± 17.34 años. Dos sujetos eran hombres y dos mujeres. Los dos sujetos hombres eran tanto el paciente más viejo del estudio, como el más joven. Los dos sujetos más jóvenes del estudio presentaban un índice de masa corporal (IMC) normal en el rango de 18.5 a 24.9. Mientras que de los dos sujetos más viejos, uno presentaba sobrepeso (IMC de 25.0 a 29.9) y el otro obesidad. Cabe destacar que a ninguno de estos sujetos ha dado presentado síntomas o dado positivo a una prueba de covid-19 en el tiempo que ha durado la pandemia.
+
+
+### Nota
+Tenga cuidado al utilizar el código de este proyecto porque se está haciendo una normalización de los valores obtenidos por el detector cuando el LED rojo o el LED infrarrojo está encendido. No se si sea válido normalizar estos dos valores y luego obtener su cociente para obtener el porcentaje de saturación de oxígeno.
